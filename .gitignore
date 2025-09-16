@@ -1,0 +1,20 @@
+#OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+[Tt]humbs.db
+*.ini
+*.rdp
+
+#Logs and databases files
+*.log
+*.sql
+*.sqlite
+
+# Temporary files
+~$*
+*.tmp
+*.temp
